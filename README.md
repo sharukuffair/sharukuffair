@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm sharuk uffair</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=MonoLisa&color=%2348B198&center=true&vCenter=true&lines=Front-end+developer.;Autodidact+Programmer%3A)](https://git.io/typing-svg)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharuk-uffair&label=Profile%20views&color=0e75b6&style=flat" alt="sharuk-uffair" /> </p>
 

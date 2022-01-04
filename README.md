@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm sharuk uffair</h1>
+## Hi I'm sharuk <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=MonoLisa&color=%2348B198&center=true&vCenter=true&lines=Front-end+developer.;Autodidact+Programmer%3A)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=MonoLisa&color=%2348B198&center=false&vCenter=true&lines=Front-end+developer.;Autodidact+Programmer.)](https://git.io/typing-svg)
+<br>
+<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharuk-uffair&label=Profile%20views&color=0e75b6&style=flat" alt="sharuk-uffair" /> </p>
 

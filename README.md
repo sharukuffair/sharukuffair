@@ -4,6 +4,12 @@
 <br>
 I'm sharuk uffair a Front-end web developer based in Tamil Nadu, India. I have passion for web design and development. Know more [about me and my work](https://sharukuffair.netlify.app/). I spend most of time coding and thinking about serving people with technologies.
 
+<!-- REACH OUT TO ME -->
+
+:mailbox: Reach me out!
+
+[![Twitter Badge](https://img.shields.io/badge/-@Ipenywis-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/Ipenywis) [![Mail Badge](https://img.shields.io/badge/-CoderOne-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/coderone) [![Linkedin Badge](https://img.shields.io/badge/-Islem-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/islem-maboud/) [![Mail Badge](https://img.shields.io/badge/-@islempenywis-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/islempenywis) [![Mail Badge](https://img.shields.io/badge/-islempenywis-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:islempenywis@gmail.com)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharuk-uffair&label=Profile%20views&color=0e75b6&style=flat" alt="sharuk-uffair" /> </p>
 
 - 🔭 I’m currently working on [My Portfolio](https://sharukuffair.netlify.app/)
@@ -33,4 +39,4 @@ I'm sharuk uffair a Front-end web developer based in Tamil Nadu, India. I have p
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sharuk-uffair&show_icons=true&locale=en" alt="sharuk-uffair" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sharuk-uffair&" alt="sharuk-uffair" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sharuk-uffair&theme=dark&date_format=M%20j%5B%2C%20Y%5D&stroke=63FFA9&background=000000&ring=84FF86F3&fire=84FF86F3&sideLabels=84FF86F3&currStreakLabel=84FF86F3" alt="sharuk-uffair" /></p>

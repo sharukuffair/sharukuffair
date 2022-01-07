@@ -15,7 +15,7 @@ I'm sharuk uffair a Front-end web developer based in Tamil Nadu, India. I have p
 - 🔭 I’m currently working on [My Portfolio](https://sharukuffair.netlify.app/)
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 
-- 👨‍💻 All of my projects are available at [https://sharukuffair.netlify.app/](https://sharukuffair.netlify.app/)
+- 👨‍💻 All of my projects are available at [My site](https://sharukuffair.netlify.app/)
 
 - 📫 How to reach me **sharukuffair1998@gmail.com**
 

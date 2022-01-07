@@ -1,4 +1,6 @@
-## Hi I'm sharuk <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+<!-- ## Hi I'm sharuk <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> -->
+
+<h1 align="left"> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm sharuk</h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=MonoLisa&color=%2384FF86&lines=Front-end+developer.;Autodidact+Programmer.)](https://git.io/typing-svg)
 <br>
@@ -19,7 +21,7 @@ I'm sharuk uffair a Front-end web developer based in Tamil Nadu, India. I have p
 
 - 📫 Reach me at `sharukuffair1998@gmail.com`
 
-<h3 align="left">Find me on:</h3>
+<h3 align="left"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/>Find me on:</h3>
 <a href="https://instagram.com/autodidact_programmer/" target="blank" title="Instagram">
 	<img align="left" alt="Instagram" height="25px" width="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />
 </a>

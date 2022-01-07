@@ -13,14 +13,9 @@ I'm sharuk uffair a Front-end web developer based in Tamil Nadu, India. I have p
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharuk-uffair&label=Profile%20views&color=0e75b6&style=flat" alt="sharuk-uffair" /> </p>
 
 - 🔭 I’m currently working on [My Portfolio](https://sharukuffair.netlify.app/)
-
-- 🌱 I’m currently learning **Javascript,React,Advance CSS**
-
-- 👯 I’m looking to collaborate on **Web Development projects**
+- :computer: Most used line of code `git commit -m "Initial Commit"`
 
 - 👨‍💻 All of my projects are available at [https://sharukuffair.netlify.app/](https://sharukuffair.netlify.app/)
-
-- 💬 Ask me about **Anything related to Front-end**
 
 - 📫 How to reach me **sharukuffair1998@gmail.com**
 

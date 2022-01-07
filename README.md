@@ -21,7 +21,7 @@ I'm sharuk uffair a Front-end web developer based in Tamil Nadu, India. I have p
 
 - 📫 Reach me at `sharukuffair1998@gmail.com`
 
-<h3 align="left"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/>Find me on:</h3>
+<h3 align="left"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="22"/>Find me on:</h3>
 <a href="https://instagram.com/autodidact_programmer/" target="blank" title="Instagram">
 	<img align="left" alt="Instagram" height="25px" width="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />
 </a>

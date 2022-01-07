@@ -21,29 +21,32 @@ I'm sharuk uffair a Front-end web developer based in Tamil Nadu, India. I have p
 
 - 📫 Reach me at `sharukuffair1998@gmail.com`
 
-<h3 align="left"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="22"/>Find me on:</h3>
-<a href="https://instagram.com/autodidact_programmer/" target="blank" title="Instagram">
-	<img align="left" alt="Instagram" height="25px" width="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />
-</a>
-<a href="https://twitter.com/sharuk_uffair" target="blank" title="Twitter">
-	<img align="left" alt="Twitter" height="25px" width="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />
-</a>
-<a href="https://linkedin.com/in/sharukuffair-6204b1170/" title="LinkedIN">
-	<img align="left" alt="LinkedIN" height="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://www.buymeacoffee.com/obrienser" title="Buy Me A Coffee">
-  <img align="left" alt="Buy Me A Coffee" height="23" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png">
-</a>
-</p>
-<!-- <p align="left">
-<a href="https://twitter.com/sharuk_uffair" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sharuk_uffair" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sharukuffair-6204b1170/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sharukuffair-6204b1170/" height="30" width="40" /></a>
-<a href="https://codesandbox.com/sharuk-uffair" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="sharuk-uffair" height="30" width="40" /></a>
-<a href="https://instagram.com/autodidact_programmer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="autodidact_programmer/" height="30" width="40" /></a>
-</p> -->
-<br>
-<br>
-<br>
+<!-- emoji -->
+  <!--
+   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="22"/> -->
+  <h3 align="left">Find me on:</h3>
+  <a href="https://instagram.com/autodidact_programmer/" target="blank" title="Instagram">
+  	<img align="left" alt="Instagram" height="25px" width="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />
+  </a>
+  <a href="https://twitter.com/sharuk_uffair" target="blank" title="Twitter">
+  	<img align="left" alt="Twitter" height="25px" width="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />
+  </a>
+  <a href="https://linkedin.com/in/sharukuffair-6204b1170/" title="LinkedIN">
+  	<img align="left" alt="LinkedIN" height="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  </a>
+  <a href="https://www.buymeacoffee.com/obrienser" title="Buy Me A Coffee">
+    <img align="left" alt="Buy Me A Coffee" height="23" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png">
+  </a>
+  </p>
+  <!-- <p align="left">
+  <a href="https://twitter.com/sharuk_uffair" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sharuk_uffair" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/sharukuffair-6204b1170/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sharukuffair-6204b1170/" height="30" width="40" /></a>
+  <a href="https://codesandbox.com/sharuk-uffair" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="sharuk-uffair" height="30" width="40" /></a>
+  <a href="https://instagram.com/autodidact_programmer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="autodidact_programmer/" height="30" width="40" /></a>
+  </p> -->
+  <br>
+  <br>
+  <br>
 
 #### Top Technologies
 

@@ -19,7 +19,7 @@ I'm sharuk uffair a Front-end web developer based in Tamil Nadu, India. I have p
   <br>
   <br>
 
-<h4 align="left">:rocket:Top Technologies & Tools:</h4>
+<h4 align="left">:rocket: Top Technologies & Tools:</h4>
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
@@ -52,7 +52,7 @@ I'm sharuk uffair a Front-end web developer based in Tamil Nadu, India. I have p
   </p>
 
 <div align="right">
- <img align="right"src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="22"/><p align="right"> <img src="https://komarev.com/ghpvc/?username=sharuk-uffair&label=Profile%20views&color=0e75b6&style=flat" alt="sharuk-uffair" /> </p>
+ <img align="right"src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="22"/><p align="right"> <img src="https://komarev.com/ghpvc/?username=sharuk-uffair&label=visitors&color=84FF86&style=for-the-badge" alt="sharuk-uffair" /> </p>
 </div>
 <br>
 <br>
@@ -61,11 +61,7 @@ I'm sharuk uffair a Front-end web developer based in Tamil Nadu, India. I have p
   📊 GitHub stats:
 </summary>
 
-<br >
-<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sharuk-uffair&show_icons=true&locale=en&layout=compact" alt="sharuk-uffair" /></p> -->
-
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sharuk-uffair&show_icons=true&locale=en" alt="sharuk-uffair" /></p> -->
-
+<br>
 <br>
 
 ![sharuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharuk-uffair&show_icons=true&theme=gotham&title_color=84FF86F3&text_color=84FF86F3&icon_color=84FF86F3&bg_color=toright,000000,434343)

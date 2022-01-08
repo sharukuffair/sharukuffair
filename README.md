@@ -24,7 +24,7 @@ I'm sharuk uffair a Front-end web developer based in Tamil Nadu, India. I have p
 <!-- emoji -->
   <!--
    <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="22"/> -->
-  <h3 align="left">Find me on:</h3>
+  <h4 align="left">Find me on:</h4>
   <a href="https://instagram.com/autodidact_programmer/" target="blank" title="Instagram">
   	<img align="left" alt="Instagram" height="25px" width="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />
   </a>
@@ -48,19 +48,21 @@ I'm sharuk uffair a Front-end web developer based in Tamil Nadu, India. I have p
   <br>
   <br>
 
-#### Top Technologies
+#### Top Technologies & Tools:
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
-[![HTML Badge](https://img.shields.io/badge/-HTML-61DBFB?style=for-the-badge&labelColor=black&logo=html5&logoColor=61DBFB)](#)
+[![HTML Badge](https://img.shields.io/badge/-HTML-CE1212?style=for-the-badge&labelColor=black&logo=html5&logoColor=CE1212)](#)
 [![CSS Badge](https://img.shields.io/badge/-CSS-007acc?style=for-the-badge&labelColor=black&logo=CSS3&logoColor=007acc)](#)
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
-[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
-[![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
+[![React Badge](https://img.shields.io/badge/-react-AEFEFF?style=for-the-badge&labelColor=black&logo=react&logoColor=AEFEFF)](#)
+[![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-8946A6?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=8946A6)](#)
+[![Sass Badge](https://img.shields.io/badge/-Sass-EF2F88?style=for-the-badge&labelColor=black&logo=sass&logoColor=EF2F88)](#)
+[![Github Badge](https://img.shields.io/badge/-github-fff?style=for-the-badge&labelColor=black&logo=github&logoColor=fff)](#)
 
 <!-- Old Languages Tools Bar Big Size -->
 
-### 👨‍💻 Languages And Tools :<br><br>
+<!-- ### 👨‍💻 Languages And Tools :<br><br>
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -72,7 +74,7 @@ I'm sharuk uffair a Front-end web developer based in Tamil Nadu, India. I have p
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="25px" height="25px"/>
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" width="25px" height="25px"/>
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" width="25px" height="25px"/> -->
 <br>
 <br>
 <br>

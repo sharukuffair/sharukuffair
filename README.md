@@ -31,7 +31,7 @@ I'm sharuk uffair a Front-end web developer based in Tamil Nadu, India. I have p
 [![React Badge](https://img.shields.io/badge/-react-AEFEFF?style=for-the-badge&labelColor=black&logo=react&logoColor=AEFEFF)](#)
 [![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-8946A6?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=8946A6)](#)
 [![Sass Badge](https://img.shields.io/badge/-Sass-EF2F88?style=for-the-badge&labelColor=black&logo=sass&logoColor=EF2F88)](#)
-[![Github Badge](https://img.shields.io/badge/-github-fff?style=for-the-badge&labelColor=black&logo=github&logoColor=fff)](#)
+[![Github Badge](https://img.shields.io/badge/-github-F7F6F2?style=for-the-badge&labelColor=black&logo=github&logoColor=fff)](#)
 
 <br>
 <h4 align="left">Find me on:</h4>

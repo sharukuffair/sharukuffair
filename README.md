@@ -9,19 +9,17 @@ I'm sharuk uffair a Front-end web developer based in Tamil Nadu, India. I have p
 <br>
 <br>
 
-- 🔭 I’m currently working on [My Portfolio](https://sharukuffair.netlify.app/)
+- 🔭 I’m currently working on [My Portfolio.](https://sharukuffair.netlify.app/):arrow_upper_right:
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 
-- 👨‍💻 All of my projects are available at [My site](https://sharukuffair.netlify.app/work.html):arrow_upper_right:
+- 👨‍💻 All of my projects are available at [My site.](https://sharukuffair.netlify.app/work.html):arrow_upper_right:
 
 - 📫 Reach me at `sharukuffair1998@gmail.com`
 
-<!-- emoji -->
-
   <br>
   <br>
 
-#### Top Technologies & Tools:
+<h4 align="left">:rocket:Top Technologies & Tools:</h4>
 
 <!-- TODO: Make technologies links takes you to repositories -->
 

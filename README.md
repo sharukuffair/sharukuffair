@@ -34,6 +34,10 @@ I'm sharuk uffair a Front-end web developer based in Tamil Nadu, India. I have p
 [![Github Badge](https://img.shields.io/badge/-github-F7F6F2?style=for-the-badge&labelColor=black&logo=github&logoColor=fff)](#)
 
 <br>
+
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharuk-uffair&layout=compact&bg_color=toright,000000,434343&hide_border=false&text_color=84FF86F3&title_color=84FF86F3"/></a>
+<br>
+
 <h4 align="left">Find me on:</h4>
   <a href="https://instagram.com/autodidact_programmer/" target="blank" title="Instagram">
   	<img align="left" alt="Instagram" height="25px" width="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />
@@ -56,17 +60,18 @@ I'm sharuk uffair a Front-end web developer based in Tamil Nadu, India. I have p
 <br>
 <details align="left">
 <summary>
-  GitHub stats:
+  📊 GitHub stats:
 </summary>
 
 <br >
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sharuk-uffair&show_icons=true&locale=en&layout=compact" alt="sharuk-uffair" /></p>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sharuk-uffair&show_icons=true&locale=en&layout=compact" alt="sharuk-uffair" /></p> -->
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sharuk-uffair&show_icons=true&locale=en" alt="sharuk-uffair" /></p> -->
+
 <br>
 
-![sharuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharuk-uffair&show_icons=true&theme=gotham&title_color=84FF86F3&text_color=84FF86F3&icon_color=84FF86F3&bg_color=000000)
+![sharuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharuk-uffair&show_icons=true&theme=gotham&title_color=84FF86F3&text_color=84FF86F3&icon_color=84FF86F3&bg_color=toright,000000,434343)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sharuk-uffair&theme=dark&date_format=M%20j%5B%2C%20Y%5D&stroke=63FFA9&background=000000&ring=84FF86F3&fire=84FF86F3&sideLabels=84FF86F3&currStreakLabel=84FF86F3" alt="sharuk-uffair" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sharuk-uffair&theme=dark&date_format=M%20j%5B%2C%20Y%5D&stroke=63FFA9&background=000&ring=84FF86F3&fire=84FF86F3&sideLabels=84FF86F3&currStreakLabel=84FF86F3" alt="sharuk-uffair" /></p>
 
 </details>

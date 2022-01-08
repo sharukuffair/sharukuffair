@@ -32,10 +32,13 @@ I'm sharuk uffair a Front-end web developer based in Tamil Nadu, India. I have p
 [![Github Badge](https://img.shields.io/badge/-github-F7F6F2?style=for-the-badge&labelColor=black&logo=github&logoColor=fff)](#)
 
 <br>
-
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharuk-uffair&layout=compact&bg_color=toright,000000,434343&hide_border=false&text_color=84FF86F3&title_color=84FF86F3"/></a>
 <br>
+<div align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharuk-uffair&layout=compact&bg_color=toright,000000,434343&hide_border=false&text_color=84FF86F3&title_color=84FF86F3"/></a>
+</div>
 
+<br>
+<br>
 <h4 align="left">Find me on:</h4>
   <a href="https://instagram.com/autodidact_programmer/" target="blank" title="Instagram">
   	<img align="left" alt="Instagram" height="25px" width="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />
@@ -46,9 +49,6 @@ I'm sharuk uffair a Front-end web developer based in Tamil Nadu, India. I have p
   <a href="https://linkedin.com/in/sharukuffair-6204b1170/" title="LinkedIN">
   	<img align="left" alt="LinkedIN" height="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
   </a>
-  <!-- <a href="https://www.buymeacoffee.com/obrienser" title="Buy Me A Coffee">
-    <img align="left" alt="Buy Me A Coffee" height="23" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png">
-  </a> -->
   </p>
 
 <div align="right">

@@ -1,7 +1,7 @@
 <h1 align="center"> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm sharuk</h1>
 
 <p align="center">
-  <a herf="(https://readme-typing-svg.herokuapp.com?font=MonoLisa&color=%2384FF86&center=true&lines=Front-End+Developer.;Autodidact+Programmer;Co-Founder+%40+ELDO)](https://git.io/typing-svg)"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=22&center=true&vCenter=true&lines=Frond-End+Developer;Autodidact+Programmer.;Co-Founder+%26+ELDO."></a>
 </p>
 
 

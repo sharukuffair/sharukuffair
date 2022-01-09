@@ -1,17 +1,21 @@
-<h1 align="left"> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm sharuk</h1>
+<h1 align="center"> Hi <img src="https://github.com/sharuk-uffair/sharuk-uffair/blob/main/logo.png" width="30px">, I'm sharuk</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=MonoLisa&color=%2384FF86&lines=Front-end+developer.;Autodidact+Programmer.)](https://git.io/typing-svg)
+<div align="center">
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=MonoLisa&color=%2384FF86&lines=Front-End+Developer.;Autodidact+Programmer.;Co-Founder+of+ELDO)](https://git.io/typing-svg)
+</div>
+
 <br>
 I'm sharuk uffair a Front-end web developer based in Tamil Nadu, India. I have passion for web design and development. Know more [about me and my work](https://sharukuffair.netlify.app/). I spend most of time coding and thinking about serving people with technologies.
 <br>
 <br>
 <br>
-
+<br>
+<br>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 - 🔭 I’m currently working on [My Portfolio.](https://sharukuffair.netlify.app/):arrow_upper_right:
-- :computer: Most used line of code `git commit -m "Initial Commit"`
-
 - 👨‍💻 All of my projects are available at [My site.](https://sharukuffair.netlify.app/work.html):arrow_upper_right:
-
+- 🌱 I’m Currently Learning `Javascript,Advance CSS & React`
+- :computer: Most used line of code `git commit -m "Initial Commit"`
 - 📫 Reach me at `sharukuffair1998@gmail.com`
 
   <br>

@@ -9,8 +9,6 @@ I'm sharuk uffair a Front-end web developer based in Tamil Nadu, India. I have p
 <br>
 <br>
 <br>
-<br>
-<br>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 - 🔭 I’m currently working on [My Portfolio.](https://sharukuffair.netlify.app/):arrow_upper_right:
 - 👨‍💻 All of my projects are available at [My site.](https://sharukuffair.netlify.app/work.html):arrow_upper_right:

@@ -1,7 +1,7 @@
 <h1 align="center"> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm sharuk</h1>
 
 <p align="center">
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=MonoLisa&color=%2384FF86&center=true&lines=Front-End+Developer.;Autodidact+Programmer;Co-Founder+%40+ELDO)](https://git.io/typing-svg)
+  (https://readme-typing-svg.herokuapp.com?font=MonoLisa&color=%2384FF86&center=true&lines=Front-End+Developer.;Autodidact+Programmer;Co-Founder+%40+ELDO)](https://git.io/typing-svg)
 
 </p>
 

@@ -1,9 +1,8 @@
 <h1 align="center"> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm sharuk</h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2384FF86&size=22&center=true&vCenter=true&lines=Front-End+Developer.;Autodidact+Programmer.;Co-Founder+@+ELDO."></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2384FF86&size=22&center=true&vCenter=true&lines=Front-End+Developer.;Autodidact+Programmer.;Co-Founder+of+ELDO."></a>
 </p>
-
 
 <br>
 
@@ -11,9 +10,9 @@
   I'm sharuk uffair a Front-end web developer based in Tamil Nadu, India. I have passion for web design and development ,<a target="_blank" href="https://sharukuffair.netlify.app/">Know more about me and my work</a>, I spend most of time coding and thinking about serving people with technologies.
 </div>
 
-
 <br>
 <br>
+<img align="right" alt="logo" height="25px" width="30" src="https://github.com/sharuk-uffair/sharuk-uffair/blob/main/logo.png" />
 
 - 🔭 I’m currently working on [My Portfolio.](https://sharukuffair.netlify.app/):arrow_upper_right:
 - 👨‍💻 Know more about my projects on [My Site.](https://sharukuffair.netlify.app/work.html):arrow_upper_right:

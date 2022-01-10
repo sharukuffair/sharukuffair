@@ -6,9 +6,8 @@
 
 
 <br>
-<div align="center">
-I'm sharuk uffair a Front-end web developer based in Tamil Nadu, India. I have passion for web design and development,[Know more about me](https://sharukuffair.netlify.app/) I spend most of time coding and thinking about serving people with technologies.
-</div>
+
+I'm sharuk uffair a Front-end web developer based in Tamil Nadu, India. I have passion for web design and development,[Know more about me and my work :arrow_upper_right:](https://sharukuffair.netlify.app/) I spend most of time coding and thinking about serving people with technologies.
 
 <br>
 <br>

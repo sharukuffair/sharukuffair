@@ -8,7 +8,7 @@
 <br>
 
 <div align="center">
-  I'm sharuk uffair a Front-end web developer based in Tamil Nadu, India. I have passion for web design and development,<a href="https://www.w3schools.com">Visit W3Schools.com!</a>, I spend most of time coding and thinking about serving people with technologies.
+  I'm sharuk uffair a Front-end web developer based in Tamil Nadu, India. I have passion for web design and development ,<a href="https://sharukuffair.netlify.app/">Know more about me and my work</a>, I spend most of time coding and thinking about serving people with technologies.
 </div>
 
 

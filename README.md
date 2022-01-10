@@ -12,7 +12,7 @@
 
 <br>
 <br>
-<img align="right" alt="logo" height="25px" width="30" src="https://github.com/sharuk-uffair/sharuk-uffair/blob/main/logo.png" />
+<img align="right" alt="logo" height="400" width="600" src="https://github.com/sharuk-uffair/sharuk-uffair/blob/main/logo.png" />
 
 - 🔭 I’m currently working on [My Portfolio.](https://sharukuffair.netlify.app/):arrow_upper_right:
 - 👨‍💻 Know more about my projects on [My Site.](https://sharukuffair.netlify.app/work.html):arrow_upper_right:

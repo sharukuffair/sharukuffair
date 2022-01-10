@@ -1,13 +1,13 @@
 <h1 align="center"> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm sharuk</h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2384FF86&size=22&center=true&vCenter=true&lines=Frond-End+Developer.;Autodidact+Programmer.;Co-Founder+@+ELDO."></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2384FF86&size=22&center=true&vCenter=true&lines=Front-End+Developer.;Autodidact+Programmer.;Co-Founder+@+ELDO."></a>
 </p>
 
 
 <br>
 <div align="center">
-I'm sharuk uffair a Front-end web developer based in Tamil Nadu, India. I have passion for web design and development, I spend most of time coding and thinking about serving people with technologies.
+I'm sharuk uffair a Front-end web developer based in Tamil Nadu, India. I have passion for web design and development,[Know more about me](https://sharukuffair.netlify.app/) I spend most of time coding and thinking about serving people with technologies.
 </div>
 
 <br>

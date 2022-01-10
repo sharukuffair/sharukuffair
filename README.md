@@ -14,7 +14,7 @@
 <br>
 <br>
 <br>
-<img align="right" alt="logo" height="250" width="400" src="https://github.com/sharuk-uffair/sharuk-uffair/blob/main/logo.png" />
+<img align="right" alt="logo" height="250" width="375" src="https://github.com/sharuk-uffair/sharuk-uffair/blob/main/logo.png" />
 
 - 🔭 I’m currently working on [My Portfolio.](https://sharukuffair.netlify.app/):arrow_upper_right:
 - 👨‍💻 Know more about my projects on [My Site.](https://sharukuffair.netlify.app/work.html):arrow_upper_right:
@@ -24,7 +24,7 @@
 - 📫 Reach me at `sharukuffair1998@gmail.com`
 
   <br>
-
+<br>
 <h4 align="left">:rocket: Top Technologies & Tools:</h4>
 
 [![HTML Badge](https://img.shields.io/badge/-HTML-CE1212?style=for-the-badge&labelColor=black&logo=html5&logoColor=CE1212)](#)

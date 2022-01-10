@@ -17,7 +17,7 @@
 
 - 🔭 I’m currently working on [My Portfolio.](https://sharukuffair.netlify.app/):arrow_upper_right:
 - 👨‍💻 Know more about my projects on [My Site.](https://sharukuffair.netlify.app/work.html):arrow_upper_right:
-- 🌱 I’m Currently Learning `Javascript,Advance CSS & React`
+- 🌱 I’m currently learning `Javascript,Advance CSS & React`
 - :orange_book: Teaching students to code @ [ELDO.](https://shahzaibfardeen.github.io/EnLift_Development_Organization-/index.html)
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 📫 Reach me at `sharukuffair1998@gmail.com`

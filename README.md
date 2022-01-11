@@ -50,7 +50,7 @@
   </p>
 
 <div align="right">
- <img align="right"src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="22"/><p align="right"> <img src="https://komarev.com/ghpvc/?username=sharuk-uffair&label=visitors&color=84FF86&style=for-the-badge" alt="sharuk-uffair" /> </p>
+ <img align="right"src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="32"/><p align="right"> <img src="https://komarev.com/ghpvc/?username=sharuk-uffair&label=visitors&color=84FF86&style=for-the-badge" alt="sharuk-uffair" /> </p>
 </div>
 <br>
 <br>

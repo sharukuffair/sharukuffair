@@ -45,7 +45,7 @@
   	<img align="left" alt="Twitter" height="25px" width="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />
   </a>
   <a  href="https://linkedin.com/in/sharukuffair" title="LinkedIN">
-  	<img align="left" alt="LinkedIN" height="25px" src="https://www.linkedin.com/feed/?nis=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BYULQSMmmQ9ydyVRE0HpEXA%3D%3D" />
+  	<img align="left" alt="LinkedIN" height="25px" src="https://github.com/sharukuffair/sharukuffair/blob/main/linkedin-png.png" />
   </a>
   </p>
 

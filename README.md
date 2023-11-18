@@ -54,23 +54,3 @@
 </div>
 <br>
 <br>
-<details align="left">
-<summary>
-  📊 GitHub stats:
-</summary>
-<br>
-<div align="left">
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharukuffair&layout=compact&bg_color=toright,000000,434343&hide_border=false&text_color=84FF86F3&title_color=84FF86F3"/></a>
-</div>
-<br>
-
-![sharuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharukuffair&show_icons=true&theme=gotham&title_color=84FF86F3&text_color=84FF86F3&icon_color=84FF86F3&bg_color=toright,000000,434343)
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sharukuffair&theme=dark&date_format=M%20j%5B%2C%20Y%5D&stroke=63FFA9&background=000&ring=84FF86F3&fire=84FF86F3&sideLabels=84FF86F3&currStreakLabel=84FF86F3" alt="sharukuffair" /></p>
-
-<br>
-
-[![sharuk's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=sharukuffair&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</details>
-

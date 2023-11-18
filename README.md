@@ -18,7 +18,7 @@
 <img align="right" alt="logo" height="250" width="375" src="https://github.com/sharuk-uffair/sharuk-uffair/blob/main/logo.png" />
 
 - 🔭 I’m currently working on [My Portfolio.](https://sharukuffair.netlify.app/):arrow_upper_right:
-- 👨‍💻 Know more about my projects on [My Site.](https://sharukuffair.netlify.app/work.html):arrow_upper_right:
+- 👨‍💻 Know more about my projects on [My Site.](https://devsharukuffair.netlify.app/work):arrow_upper_right:
 - 🌱 I’m currently learning `Javascript,Advance CSS & React`
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 📫 Reach me at `sharukuffair1998@gmail.com`

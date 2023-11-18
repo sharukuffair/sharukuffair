@@ -8,7 +8,7 @@
 <br>
 
 <div align="center">
-  I'm sharuk uffair a Front-end web developer based in Tamil Nadu, India. I have passion for web design and development ,<a target="_blank" href="https://sharukuffair.netlify.app/"> Know more about me & my work:arrow_upper_right:</a>, I spend most of time coding and thinking about serving people with technologies.
+  I'm sharuk uffair a Front-end web developer based in Tamil Nadu, India. I have a passion for web design and development,<a target="_blank" href="https://sharukuffair.netlify.app/"> Know more about me & my work:arrow_upper_right:</a>, I spend most of my time coding and thinking about serving people with technologies.
 </div>
 
 <br>
@@ -19,7 +19,7 @@
 
 - 🔭 I’m currently working on [My Portfolio.](https://sharukuffair.netlify.app/):arrow_upper_right:
 - 👨‍💻 Know more about my projects on [My Site.](https://devsharukuffair.netlify.app/work):arrow_upper_right:
-- 🌱 I’m currently learning `Javascript,Advance CSS & React`
+- 🌱 I’m currently learning `Javascript, Advanced CSS & React`
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 📫 Reach me at `sharukuffair1998@gmail.com`
 

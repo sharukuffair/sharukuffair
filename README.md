@@ -1,3 +1,4 @@
+
 <h1 align="center"> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm sharuk</h1>
 
 <p align="center">
@@ -43,7 +44,7 @@
   <a href="https://twitter.com/sharuk_uffair" target="blank" title="Twitter">
   	<img align="left" alt="Twitter" height="25px" width="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />
   </a>
-  <a  href="https://linkedin.com/in/sharukuffair-6204b1170/" title="LinkedIN">
+  <a  href="https://linkedin.com/in/sharukuffair" title="LinkedIN">
   	<img align="left" alt="LinkedIN" height="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
   </a>
   </p>
@@ -59,16 +60,17 @@
 </summary>
 <br>
 <div align="left">
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharuk-uffair&layout=compact&bg_color=toright,000000,434343&hide_border=false&text_color=84FF86F3&title_color=84FF86F3"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharukuffair&layout=compact&bg_color=toright,000000,434343&hide_border=false&text_color=84FF86F3&title_color=84FF86F3"/></a>
 </div>
 <br>
 
-![sharuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharuk-uffair&show_icons=true&theme=gotham&title_color=84FF86F3&text_color=84FF86F3&icon_color=84FF86F3&bg_color=toright,000000,434343)
+![sharuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharukuffair&show_icons=true&theme=gotham&title_color=84FF86F3&text_color=84FF86F3&icon_color=84FF86F3&bg_color=toright,000000,434343)
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sharuk-uffair&theme=dark&date_format=M%20j%5B%2C%20Y%5D&stroke=63FFA9&background=000&ring=84FF86F3&fire=84FF86F3&sideLabels=84FF86F3&currStreakLabel=84FF86F3" alt="sharuk-uffair" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sharukuffair&theme=dark&date_format=M%20j%5B%2C%20Y%5D&stroke=63FFA9&background=000&ring=84FF86F3&fire=84FF86F3&sideLabels=84FF86F3&currStreakLabel=84FF86F3" alt="sharukuffair" /></p>
 
 <br>
 
-[![sharuk's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=sharuk-uffair&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![sharuk's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=sharukuffair&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </details>
+
